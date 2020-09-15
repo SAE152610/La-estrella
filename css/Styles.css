@@ -1,0 +1,186 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+body{
+    width:100%;
+    margin: 0 auto;
+    min-width:600px;
+    max-width:2000px
+}
+
+.logo{
+    background-color: rgb(218, 216, 216);
+}
+
+.logo img{
+    width: 14%;
+    margin-top: 10px;
+    margin-left: 15%;
+    border-radius: 50%;
+}
+
+.input{
+    border-radius: 20px;
+    width: 25%;
+    font-size: 15px;
+    padding: 10px;
+    margin-left: 8%;
+    text-align: center;
+}
+
+.iconos{
+    width: 18%;
+    margin-left: 70%;
+    border-radius: 50%;
+    transform: translatey(-135px);
+}
+
+.logo span{
+    margin-left: 48px;
+    font-size: 19px;
+    font-style: oblique;
+}
+
+.nav{
+    padding: 13px;
+    justify-content: center;
+    justify-content: space-evenly;
+    margin-bottom: 55px;
+}
+
+.container{
+    margin-bottom: 55px;
+    margin-top: 55px;
+    padding-left: 8%;
+    border: ridge;
+}
+
+.container h4{
+    color: rgb(131, 28, 28);
+}
+
+.container button{
+    margin-bottom: 20px;
+}
+
+.cont{
+    padding-left: 12%;
+    background-color: rgb(128, 204, 255);
+    margin-bottom: 50px;
+    margin-top: 55px;
+    width: 92%;
+}
+
+.container h1{
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    padding: 20px;
+    font-size: 80px;
+    color: rgb(53, 117, 255);
+}
+
+.container span{
+    font-size: 26px;
+    text-justify: auto;
+}
+
+.container h5{
+    color: rgb(53, 117, 255);
+    margin-bottom: 32px;
+}
+
+.container p{
+    color: rgb(146, 146, 150);
+}
+
+.container img{
+    width: 80%;
+    padding-bottom: 20px;
+    border-radius: 10px;
+}
+
+.hubi{
+    width: 80%;
+    margin-bottom: 20px;
+    padding: 15px;
+    border: ridge;
+}
+
+.hora{
+    color: rgb(146, 146, 150);
+    font-size: 30px;
+    font-style: oblique;
+}
+
+.imag-hora{
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 60px;
+}
+
+h2{
+    text-align: center;
+    color: rgb(53, 117, 255);
+    font-style: oblique;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.equipo{
+    width: 80%;
+    margin: auto;
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding: 5px;
+}
+
+.conequipo{
+    width: 50%;
+    text-align: center;
+    padding: 5px;
+    font-size: 25px;
+    margin-top: 20px;
+}
+
+
+.puesto{
+    color: rgb(60, 119, 247);
+    margin-bottom: 30px;
+    font-size: oblique;
+}
+
+.conequipo img{
+    width: 80%;
+}
+
+.footer{
+    background-color: rgb(226, 226, 226);
+    font-size: 30px;
+    margin-top: 120px;
+    padding: 5px;
+}
+
+.contenido-footer{
+    margin-left: 10px;
+    margin-bottom: 20px;
+    padding: 20px;
+}
+
+.contenido-footer a{
+    margin-left: 10px;
+    font-style: oblique;
+}
+
+.contenido-footer img{
+    width: 50px;
+    float: right;
+    margin-left: 30px;
+    transform: translatex(-280px);
+    border-radius: 50%;
+}
+
